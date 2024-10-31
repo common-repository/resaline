@@ -1,0 +1,11 @@
+span.mce_resaline_shortcodes_button {
+	background-image: url(../images/calendar.png)!important;
+	background-repeat: no-repeat!important;
+	background-position: center!important;
+}
+
+
+.calendrier td{
+	border-top: 0;
+	padding: 0;
+}

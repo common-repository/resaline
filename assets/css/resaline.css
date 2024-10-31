@@ -1,0 +1,37 @@
+span.mce_resaline_shortcodes_button {
+	background-image: url(../images/calendar.png)!important;
+	background-repeat: no-repeat!important;
+	background-position: center!important;
+}
+
+
+.calendrier td{
+	border-top: 0;
+	padding: 0;
+}
+
+.resaline_calendars {
+	width: 80%;
+	margin: 0 auto;
+}
+.resaline_calendars .calendar_item{
+	border: 1px solid #D2D2D2;
+	margin-bottom: 5px;
+	clear: both;
+}
+
+.id_calendar{
+	float: left;
+	height: 30px;
+	width: 10%;
+	padding: 8px 15px;
+	font-size: 20px;
+}
+
+.frame-style li{
+	width: 33%;
+	float: left;
+}
+.frame-style li input{
+	width: 90%;
+}
